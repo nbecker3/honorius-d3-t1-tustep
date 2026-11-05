@@ -1,0 +1,5 @@
+# Alle Dateien Byte für Byte unverändert übertragen (keine Umwandlung der Zeilenenden);
+# TUSTEP-Dateien und PDF sind Binärdateien.
+* -text
+*.tf binary
+*.pdf binary
